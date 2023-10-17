@@ -14,4 +14,4 @@ Developed by Hazrath Ali, CSE, RUET.
 Folder Structure:---------
 The main file where I worked is FormControl.jsx
 To find the file please Open------
-../Components/FormControl.jsx
+../src/Components/FormControl.jsx
